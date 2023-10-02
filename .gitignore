@@ -154,5 +154,8 @@ media/
 temp.py
 temp2.py
 homework.log
+.isort
+
 isort.cfg
+
 .isort.cfg

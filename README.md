@@ -21,7 +21,8 @@
   <p>Создайте файл .env в корневой папке проекта и добавьте в него следующие переменные окружения:</p>
   <blockquote>TELEGRAM_TOKEN=ваш_токен_телеграм
               PRACTICUM_TOKEN=ваш_токен_практикума
-              TELEGRAM_CHAT_ID=ваш_ID_чата_телеграм </blockquote>
+              TELEGRAM_CHAT_ID=ваш_ID_чата_телеграм 
+              </blockquote>
   <p><ul>
         <li>TELEGRAM_TOKEN - токен вашего бота в Telegram.</li>
         <li>PRACTICUM_TOKEN - токен API Practicum.</li>
@@ -38,3 +39,4 @@
 <h2>Автор</h2>
 <p>Проект "Блогикум" был разработан <a href="https://github.com/Alexander-Klp">студентом</a> школы <a href="https://practicum.yandex.ru/">Яндекс.Практикум</a>
 </p>
+<p>Проверен Михой Душнилой =)</p>
